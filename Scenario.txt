@@ -1,0 +1,2 @@
+i have to ask the user to insert a time in HH MM SS format and convert 24 hour military time 
+to 12 hour standard time and display an error message.
